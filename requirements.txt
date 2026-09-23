@@ -3,6 +3,6 @@ uvicorn[standard]
 mysql-connector-python
 pandas
 numpy
-scikit-learn
+scikit-learn==1.6.1
 joblib
 python-dotenv
