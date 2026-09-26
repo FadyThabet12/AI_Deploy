@@ -3,7 +3,7 @@ import mysql.connector
 db_config = {
     "host": "localhost",
     "user": "root",
-    "password": "0000",  # ضع كلمة مرور قاعدة البيانات هنا
+    "password": "",  # ضع كلمة مرور قاعدة البيانات هنا
     "database": "smart_attendance_db"
 }
 
